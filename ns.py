@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1IT3LWI9GQ3FUU0nZf9CR0z3lzA2NYS0g
 """
 
-!pip install newspaper3k
+
 
 pip install lxml_html_clean
 
-!pip install newspaper3k
+pip install newspaper3k
 
-!pip3 install newspaper3k
+
 
 pip install lxml_html_clean
 
